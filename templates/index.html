@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Generator</title>
+</head>
+<body>
+    <h1>Text to Image Generator</h1>
+    <form action="/generate" method="POST">
+        <label for="prompt">Enter your prompt:</label><br>
+        <input type="text" id="prompt" name="prompt" required><br><br>
+        <input type="submit" value="Generate Image">
+    </form>
+
+    <h2>Generated Image:</h2>
+    <img id="generated-image" src="" alt="Generated Image" style="max-width: 500px; margin-top: 20px;">
+</body>
+</html>
