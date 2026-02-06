@@ -1,5 +1,6 @@
 
-# 🖼️ Text-to-Image Generation using Diffusion Models and CLIP
+# 🖼️ Text-to-Image-Generation-using-Diffusion-Models:A Deep Generative Learning Approach
+
 
 This project is a **Text-to-Image Generation web application** built using **Diffusion Models**, **CLIP**, and **Flask**.
 Users can enter a text prompt, and the system generates an image that matches the description.
@@ -34,7 +35,7 @@ The application leverages **Stable Diffusion (v1.5)** from Hugging Face and runs
 ## 📂 Project Structure
 
 ```
-Text-to-Image-Generation-using-Diffusion-Models:A Deep GenerativeLearning Approach/
+Text-to-Image-Generation-using-Diffusion-Models:A Deep GenerativeLearning Approach
 │
 ├── app.py                  # Flask application
 ├── clip.py                 # CLIP model logic
