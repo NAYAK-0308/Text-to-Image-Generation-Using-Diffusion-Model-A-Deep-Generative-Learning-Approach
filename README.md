@@ -34,7 +34,7 @@ The application leverages **Stable Diffusion (v1.5)** from Hugging Face and runs
 ## 📂 Project Structure
 
 ```
-Text-to-Image-Generation-using-Diffusion-Models-and-CLIP/
+Text-to-Image-Generation-using-Diffusion-Models:A Deep GenerativeLearning Approach/
 │
 ├── app.py                  # Flask application
 ├── clip.py                 # CLIP model logic
@@ -163,12 +163,7 @@ If you have an NVIDIA GPU:
 
 ---
 
-## 👨‍💻 Author
 
-**Sharath Kumar Reddy**
-AI / ML Enthusiast | Full Stack Developer
-
----
 
 ## 📜 License
 
